@@ -4,4 +4,4 @@ Simple calculator in cpp
 
 ## How ?
 
-Take first numbers and seconds numbers and then calculate it based on given operators (+, -, ...)
+Take pattern numbers (ex: `69 + 420`) and then calculate it.
