@@ -125,7 +125,7 @@ int main() {
         std::cerr << "Error: There is no operator" << std::endl;
         return 1;
     }
-    else if (is_second_numbers_empty) {
+    else if (second_numbers.empty()) {
         std::cerr << "Error: There is no second numbers found" << std::endl;
         return 1;
     }
